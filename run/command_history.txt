@@ -1,0 +1,16 @@
+/badge give Player148 badgebox:boulder_badge
+/badge display
+/badge editor
+/badge list
+/badge list @a
+/badge list @p
+/badge reload
+/give @p badgebox:badge_box
+/badge list Player982
+/badge give Player982 "badgebox:boulder_badge"
+/badge give Player982 badgebox:boulder_badge
+/badge editor
+/badge list Player180
+/badge give Player180 boulder_badge
+/badge give Player180 badgebox:boulder_badge
+/badge display

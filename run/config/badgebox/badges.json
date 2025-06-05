@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "badges": {
+    "boulder_badge": {
+      "name": "Boulder Badge",
+      "category": "gym",
+      "display_item": "minecraft:cobblestone",
+      "silhouette_item": "minecraft:gray_concrete",
+      "obtainable": true,
+      "lore": {
+        "0": "§7The first gym badge",
+        "1": "§7Obtained from Brock"
+      }
+    },
+    "cascade_badge": {
+      "name": "Cascade Badge",
+      "category": "gym",
+      "display_item": "minecraft:prismarine_shard",
+      "silhouette_item": "minecraft:blue_concrete",
+      "obtainable": true,
+      "lore": {
+        "0": "§7The second gym badge",
+        "1": "§7Obtained from Misty"
+      }
+    },
+    "thunder_badge": {
+      "name": "Thunder Badge",
+      "category": "gym",
+      "display_item": "minecraft:gold_ingot",
+      "silhouette_item": "minecraft:yellow_concrete",
+      "obtainable": true,
+      "lore": {
+        "0": "§7The third gym badge",
+        "1": "§7Obtained from Lt. Surge"
+      }
+    },
+    "lorelei_badge": {
+      "name": "Lorelei Badge",
+      "category": "elite_four",
+      "display_item": "minecraft:ice",
+      "silhouette_item": "minecraft:light_blue_concrete",
+      "obtainable": true,
+      "lore": {
+        "0": "§7Elite Four member defeated",
+        "1": "§7Ice type specialist"
+      }
+    },
+    "bruno_badge": {
+      "name": "Bruno Badge",
+      "category": "elite_four",
+      "display_item": "minecraft:brick",
+      "silhouette_item": "minecraft:brown_concrete",
+      "obtainable": true,
+      "lore": {
+        "0": "§7Elite Four member defeated",
+        "1": "§7Fighting type specialist"
+      }
+    },
+    "champion_badge": {
+      "name": "Champion Badge",
+      "category": "champion",
+      "display_item": "minecraft:diamond",
+      "silhouette_item": "minecraft:purple_concrete",
+      "obtainable": true,
+      "lore": {
+        "0": "§6The ultimate achievement",
+        "1": "§6Pokémon Champion!"
+      }
+    },
+    "shiny_hunter": {
+      "name": "Shiny Hunter",
+      "category": "special",
+      "display_item": "minecraft:nether_star",
+      "silhouette_item": "minecraft:magenta_concrete",
+      "obtainable": true,
+      "lore": {
+        "0": "§5Caught a shiny Pokémon",
+        "1": "§5Extremely rare!"
+      }
+    }
+  }
+}
