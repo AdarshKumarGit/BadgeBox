@@ -8,13 +8,14 @@
   "contact": {},
   "license": "MIT",
   "icon": "assets/badgebox/icon.png",
+
   "environment": "*",
   "entrypoints": {
     "client": [
-      "org.chubby.github.badgebox.client.BadgeboxClient"
+      "org.chubby.github.badgebox.BadgeboxClient"
     ],
     "main": [
-      "org.chubby.github.badgebox.Badgebox"
+      "org.chubby.github.badgebox.BadgeBox"
     ]
   },
   "depends": {
