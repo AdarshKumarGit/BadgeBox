@@ -1,1 +1,87 @@
-{"badges":[{"id":"first_join","name":"First Steps","category":"General","description":"Joined the server for the first time","texture":"badgebox:textures/badges/first_join.png","obtainable":true},{"id":"veteran","name":"Veteran","category":"General","description":"Been on the server for over a year","texture":"badgebox:textures/badges/veteran.png","obtainable":true},{"id":"builder","name":"Master Builder","category":"Building","description":"Built something amazing","texture":"badgebox:textures/badges/builder.png","obtainable":true},{"id":"explorer","name":"Explorer","category":"Adventure","description":"Discovered new lands","texture":"badgebox:textures/badges/explorer.png","obtainable":true}]}
+{
+  "first_join": {
+    "id": "first_join",
+    "name": "First Steps",
+    "category": "general",
+    "description": "Joined the server for the first time",
+    "texture": "badgebox:textures/badges/first_join.png",
+    "silhouetteTexture": "badgebox:textures/badges/silhouettes/first_join.png",
+    "obtainable": true,
+    "rarity": 1,
+    "lore": [
+      "Welcome to the server!"
+    ],
+    "animated": false
+  },
+  "veteran": {
+    "id": "veteran",
+    "name": "Veteran",
+    "category": "general",
+    "description": "Been on the server for over a year",
+    "texture": "badgebox:textures/badges/veteran.png",
+    "silhouetteTexture": "badgebox:textures/badges/silhouettes/veteran.png",
+    "obtainable": true,
+    "rarity": 3,
+    "lore": [
+      "A true server veteran",
+      "Time played: 365+ days"
+    ],
+    "animated": false
+  },
+  "builder": {
+    "id": "builder",
+    "name": "Master Builder",
+    "category": "building",
+    "description": "Built something amazing",
+    "texture": "badgebox:textures/badges/builder.png",
+    "silhouetteTexture": "badgebox:textures/badges/silhouettes/builder.png",
+    "obtainable": true,
+    "rarity": 2,
+    "lore": [
+      "Awarded for exceptional builds"
+    ],
+    "animated": false
+  },
+  "explorer": {
+    "id": "explorer",
+    "name": "Explorer",
+    "category": "adventure",
+    "description": "Discovered new lands",
+    "texture": "badgebox:textures/badges/explorer.png",
+    "silhouetteTexture": "badgebox:textures/badges/silhouettes/explorer.png",
+    "obtainable": true,
+    "rarity": 2,
+    "lore": [
+      "For those who venture far"
+    ],
+    "animated": false
+  },
+  "guardian": {
+    "id": "guardian",
+    "name": "Server Guardian",
+    "category": "special",
+    "description": "Helped protect the server",
+    "texture": "badgebox:textures/badges/guardian.png",
+    "silhouetteTexture": "badgebox:textures/badges/silhouettes/guardian.png",
+    "obtainable": true,
+    "rarity": 4,
+    "lore": [
+      "A protector of the realm"
+    ],
+    "animated": false
+  },
+  "legend": {
+    "id": "legend",
+    "name": "Legend",
+    "category": "special",
+    "description": "Achieved legendary status",
+    "texture": "badgebox:textures/badges/legend.png",
+    "silhouetteTexture": "badgebox:textures/badges/silhouettes/legend.png",
+    "obtainable": false,
+    "rarity": 5,
+    "lore": [
+      "Reserved for the truly legendary"
+    ],
+    "animated": false
+  }
+}

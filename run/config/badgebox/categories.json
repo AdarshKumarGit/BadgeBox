@@ -1,0 +1,44 @@
+{
+  "general": {
+    "id": "general",
+    "displayName": "General",
+    "description": "Basic achievements and milestones",
+    "icon": "minecraft:grass_block",
+    "sortOrder": 0
+  },
+  "building": {
+    "id": "building",
+    "displayName": "Building",
+    "description": "Construction and creative achievements",
+    "icon": "minecraft:bricks",
+    "sortOrder": 1
+  },
+  "adventure": {
+    "id": "adventure",
+    "displayName": "Adventure",
+    "description": "Exploration and adventure achievements",
+    "icon": "minecraft:compass",
+    "sortOrder": 2
+  },
+  "combat": {
+    "id": "combat",
+    "displayName": "Combat",
+    "description": "Battle and PvP achievements",
+    "icon": "minecraft:diamond_sword",
+    "sortOrder": 3
+  },
+  "social": {
+    "id": "social",
+    "displayName": "Social",
+    "description": "Community and social achievements",
+    "icon": "minecraft:emerald",
+    "sortOrder": 4
+  },
+  "special": {
+    "id": "special",
+    "displayName": "Special",
+    "description": "Rare and event-exclusive badges",
+    "icon": "minecraft:nether_star",
+    "sortOrder": 5
+  }
+}

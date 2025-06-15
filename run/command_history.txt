@@ -1,9 +1,13 @@
-/badge give Player384 boulder_badge
-/badge give Player384 explorer
-/badge give Player384 badgebox:explorer
-/badge list
-/badge list Player384
-/execute run badge reload
-/badge give Player384 first_join
-/badge give Player384 "first_join"
-/badge give Player384 "badgebox:first_join"
+/badge display
+/badge give Player959 first_join
+/badge gui
+/badge give Player168 first_join
+/badge gui
+/badge display Player168
+/badge list Player168
+/badge gui
+/badge display
+/badge gui
+/badge list Player520
+/badge give Player520 first_join
+/badge gui

@@ -1,1 +1,18 @@
-{}
+{
+  "7c2fb32a-48f4-3632-92b4-de6db3581064": {
+    "owned": [
+      "first_join"
+    ],
+    "display": [],
+    "displayName": "",
+    "allowPublicView": true
+  },
+  "6634a609-43e8-3247-9054-c77a3a707d73": {
+    "owned": [
+      "first_join"
+    ],
+    "display": [],
+    "displayName": "",
+    "allowPublicView": true
+  }
+}
